@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'NagiApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_01DE94557A734AF6898CFDD7AB518A02 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BE64A557740C4D05B6D18237CCD3CD78 }}
           package: .
